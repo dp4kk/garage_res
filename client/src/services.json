@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Car Servicing"
+  },
+  {
+    "id": 2,
+    "name": "Battery Repairs"
+  },
+  {
+    "id": 3,
+    "name": "Brake Fluid Replacement"
+  },
+  {
+    "id": 4,
+    "name": "Clutch Replacement"
+  },
+  {
+    "id": 5,
+    "name": "Coolant Change"
+  },
+  {
+    "id": 6,
+    "name": "Diagnostic Check"
+  },
+  {
+    "id": 7,
+    "name": "Radiator Repairs"
+  },
+  {
+    "id": 8,
+    "name": "Oil Change"
+  },
+  {
+    "id": 9,
+    "name": "Wheel Balancing"
+  },
+  {
+    "id": 10,
+    "name": "Shock Absorber Repairs"
+  }
+]
